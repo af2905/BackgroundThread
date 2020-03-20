@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">BackgroundThread</string>
+    <string name="stop">stop</string>
+    <string name="start">start</string>
+    <string name="image">image</string>
+    <string name="press_and_wait">Press start and wait …</string>
+</resources>
