@@ -1,4 +1,4 @@
-package ru.job4j.samplebackgroundthread;
+package ru.job4j.backgroundthread;
 
 import android.content.Context;
 
